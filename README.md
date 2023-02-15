@@ -6,13 +6,9 @@
 
 My name is Atanas Atanasov! I am an aspiring software developer, currently in the making! I am interested primarily in Backend development!
 
-<br />
-
 ---
 
 ## 🧰 Languages & Tools
-
-<br />
 
 <img align="left" alt="devicon" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
