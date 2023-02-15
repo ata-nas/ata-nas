@@ -44,8 +44,6 @@ My name is Atanas Atanasov! I am an aspiring software developer, currently in th
 
 ![Atanas Atanasov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox)
 
-<br />
-
 #
 
 <details>
