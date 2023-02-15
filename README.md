@@ -1,6 +1,6 @@
 # 🔥 🚀 Atanas Atanasov
 
-## 🤔 Who am I?
+### 🤔 Who am I?
 
 **My primary goal is to bring as much business value to everyone I am involved with!**
 
@@ -8,7 +8,7 @@ My name is Atanas Atanasov! I am an aspiring software developer, currently in th
 
 ---
 
-## 🧰 Languages & Tools
+### 🧰 Languages & Tools
 
 <img align="left" alt="devicon" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
