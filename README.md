@@ -1,13 +1,16 @@
-# 🔥 🚀 Atanas Atanasov
+# 🔥🚀 Atanas Atanasov
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact" />
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<!-- <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> -->
 
-### 🤔 Who am I?
+---
 
-**My primary goal is to bring as much business value to everyone I am involved with!**
+### 🤔 Who am I?!
 
-My name is Atanas Atanasov! I am an aspiring software developer, currently in the making! I am interested primarily in Backend development!
+🚀 **My primary goal is to bring as much business value to everyone I am involved with!**
+
+🔥 My name is Atanas Atanasov! I am an aspiring software developer, currently in the making! I am interested primarily in Backend development!
 
 ---
 
@@ -37,19 +40,15 @@ My name is Atanas Atanasov! I am an aspiring software developer, currently in th
 
 <img align="left" alt="devicon" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<br />
+<br/>
 
 #
 
-<br />
+### 📈 Stats
 
-
-
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Atanas Atanasov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox)
--->
 
 #
 
