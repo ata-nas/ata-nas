@@ -43,10 +43,12 @@ My name is Atanas Atanasov! I am an aspiring software developer, currently in th
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact" />
 
+
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Atanas Atanasov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox)
 -->
+
 #
 
 <details>
