@@ -1,5 +1,8 @@
 # 🔥 🚀 Atanas Atanasov
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact" />
+
 ### 🤔 Who am I?
 
 **My primary goal is to bring as much business value to everyone I am involved with!**
@@ -40,8 +43,7 @@ My name is Atanas Atanasov! I am an aspiring software developer, currently in th
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ata-nas&show_icons=true&theme=gruvbox" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact" />
+
 
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ata-nas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
