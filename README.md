@@ -6,7 +6,7 @@
 
 🔥 My name is Atanas Atanasov.
 
-I am a **Blockchain Developer**, but I have also worked on build enterprise products, in the realm of Big Data and Information Management!
+I am a **Blockchain Developer**, but I have also worked on building enterprise products, in the realm of Big Data and Information Management!
 
 I am interested primarily in Backend development, but I do also enjoy Front-end development sometimes. My main interests in my career are the Web3 space, AI, Data Structures and Algorithms, Cybersecurity, High-Performance Coding, Web-based Technologies and Low-level Programming. Also I retain my love and passion for Mathematics, Physics, Finance and Business that I have always had since I was a teenager.
 
